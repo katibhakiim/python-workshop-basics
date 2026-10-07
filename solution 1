@@ -26,7 +26,7 @@ Create some variables with some numbers. Do some simple math with the variables:
              classic_Div = age / year 
 
           # print division 
-            print(" classic division age/year = " , classic_D )
+            print(" classic division age/year = " , classic_Div )
 
          # floor_Div  division
               floor_Div = age // year
@@ -37,5 +37,5 @@ Create some variables with some numbers. Do some simple math with the variables:
 
               rem_Div = age % year
               # print remainder  of division 
-              print(" remainder  of division  age % year = ", floor_Div)
+              print(" remainder  of division  age % year = ", rem_Div)
           
